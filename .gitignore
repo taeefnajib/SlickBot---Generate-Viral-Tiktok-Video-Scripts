@@ -1,0 +1,6 @@
+/slickbot-backend/.env
+/slickbot-backend/__pycache__
+/slickbot-backend/slicktokenv
+
+/slickbot-frontend/node_modules
+/slickbot-frontend/package-lock.json
